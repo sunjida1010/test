@@ -1,0 +1,1502 @@
+@media (min-width: 320px) and (max-width: 575px) {
+  .design {
+    display: none;
+  }
+
+  .curv-ring {
+    display: none;
+  }
+
+  .button {
+    width: auto;
+    padding: 10px 16px;
+    border-radius: 18px;
+    font-size: 18px;
+    border: 1px solid #ff5538;
+  }
+
+  .title h3 {
+    width: auto;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  .navbar-nav {
+    background-color: #ff5538;
+    text-align: center;
+  }
+
+  .nav-item {
+    margin-left: 0;
+  }
+
+  .nav-item .nav-link {
+    color: white;
+  }
+
+  nav .button {
+    display: none;
+  }
+
+  #banner {
+    padding-top: 208px;
+    padding-bottom: 79px;
+  }
+
+  #banner h1 {
+    font-size: 35px;
+    width: auto;
+  }
+
+  #banner p {
+    font-size: 15px;
+    width: auto;
+  }
+
+  #suggestion {
+    transform: translateY(0%);
+  }
+
+  #suggestion .card {
+    text-align: center;
+    width: auto;
+    margin: 20px;
+    height: 327px;
+    border: none;
+    border-radius: 0;
+    padding: 40px 30px;
+    box-shadow: 0px 44px 40px 0px rgba(0, 0, 0, 0.02);
+  }
+
+  #suggestion .card h2 {
+    font-size: 22px;
+    font-weight: 600;
+    font-family: "Poppins", sans-serif;
+    color: #29313d;
+    margin-top: 22px;
+    margin-bottom: 10px;
+    line-height: 160%;
+  }
+
+  #suggestion .card p {
+    font-family: "Nunito", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 200%;
+    color: #29313d;
+  }
+
+  #suggestion .card img {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+  }
+
+  #experience {
+    padding: 30px 0;
+  }
+
+  .experience-wrapper {
+    display: block;
+    position: static;
+  }
+
+  .wrapper-left {
+    width: auto;
+    height: auto;
+  }
+
+  .wrapper-right {
+    width: 100%;
+    height: 500px;
+    position: static;
+  }
+
+  .wrapper-right .text-area {
+    margin: 0;
+    padding: 20px;
+  }
+
+  .wrapper-right h2 {
+    width: auto;
+    font-size: 20px;
+    margin-top: 0px;
+  }
+
+  .wrapper-right p {
+    width: auto;
+    font-size: 15px;
+    margin-bottom: 48px;
+  }
+
+  .wrapper-right img {
+    display: none;
+  }
+
+  #about {
+    margin-top: 0;
+  }
+
+  #about .about-top,
+  #about .about-cross {
+    display: none;
+  }
+
+  #about .title h3 {
+    width: auto;
+  }
+
+  #about .button {
+    display: inline-block;
+    margin: 20px 0;
+  }
+
+  #about .card .des h2 {
+    font-size: 21px;
+  }
+
+  #about .card img {
+    height: auto;
+  }
+
+  #service {
+    background-color: #fdf9f8;
+    margin-top: 0;
+    padding: 120px 0;
+    position: relative;
+  }
+
+  #service .serviceShape,
+  #service .serviceShape2,
+  #service .serviceShape3,
+  #service .serviceShape4,
+  #service .serviceShape5 {
+    display: none;
+  }
+
+  #service .text-area {
+    padding: 20px;
+  }
+
+  #service .text-area h1 {
+    width: auto;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  #service .text-area p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #companies h1 {
+    width: auto;
+    font-size: 30px;
+  }
+
+  #companies .img-box {
+    margin: 10px 0;
+  }
+
+  #customer h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #customer {
+    padding: 65px 0;
+  }
+
+  #customer .customerShape1,
+  #customer .customerShape2,
+  #customer .customerShape3 {
+    display: none;
+  }
+
+  #customer .image-row img {
+    width: 23%;
+    margin-right: 0px;
+  }
+
+  #customer .image-row {
+    margin: 40px 0;
+    text-align: center;
+  }
+  #customer p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #customer .customer-navigation span {
+    color: #29313d;
+    font-family: Open Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 180%;
+    text-transform: capitalize;
+  }
+
+  #customer .next-btn {
+    display: none;
+  }
+  #customer .prev-btn {
+    display: none;
+  }
+
+  #customer .customer-img {
+    margin-top: 20px;
+  }
+
+  #customer .customer-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+  }
+
+  #contact h2 {
+    font-size: 40px;
+  }
+
+  #contact .contactShape {
+    display: none;
+  }
+
+  #contact .button {
+    display: inline-block;
+    margin-top: 19px;
+  }
+
+  footer {
+    padding-top: 40px;
+    padding-bottom: 57px;
+  }
+
+  footer p {
+    font-size: 15px;
+    width: auto;
+  }
+
+  .privacy {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .copyright a {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 576px) and (max-width: 768px) {
+  .design {
+    display: none;
+  }
+
+  .curv-ring {
+    display: none;
+  }
+
+  .button {
+    width: auto;
+    padding: 10px 16px;
+    border-radius: 18px;
+    font-size: 18px;
+    border: 1px solid #ff5538;
+  }
+
+  .title h3 {
+    width: auto;
+    font-size: 28px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  .navbar-nav {
+    background-color: #ff5538;
+    text-align: center;
+  }
+
+  .nav-item {
+    margin-left: 0;
+  }
+
+  .nav-item .nav-link {
+    color: white;
+  }
+
+  nav .button {
+    display: none;
+  }
+
+  #banner {
+    padding-top: 208px;
+    padding-bottom: 79px;
+  }
+
+  #banner h1 {
+    font-size: 42px;
+    width: auto;
+  }
+
+  #banner p {
+    font-size: 20px;
+    width: auto;
+  }
+
+  #suggestion {
+    transform: translateY(0%);
+  }
+
+  #suggestion .card {
+    text-align: center;
+    width: auto;
+    height: 327px;
+    border: none;
+    border-radius: 0;
+    padding: 40px 30px;
+    box-shadow: 0px 44px 40px 0px rgba(0, 0, 0, 0.02);
+  }
+
+  #suggestion .card h2 {
+    font-size: 21px;
+  }
+
+  #suggestion .card p {
+    font-family: "Nunito", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 200%;
+    color: #29313d;
+  }
+
+  #suggestion .card img {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+  }
+
+  #experience {
+    padding: 30px 0;
+  }
+
+  .experience-wrapper {
+    display: block;
+    position: static;
+  }
+
+  .wrapper-left {
+    width: auto;
+    height: auto;
+  }
+
+  .wrapper-right {
+    width: 100%;
+    height: 333px;
+    position: static;
+  }
+
+  .wrapper-right .text-area {
+    margin: 0;
+    padding: 20px;
+  }
+
+  .wrapper-right h2 {
+    width: auto;
+    font-size: 20px;
+    margin-top: 0px;
+  }
+
+  .wrapper-right p {
+    width: auto;
+    font-size: 15px;
+    margin-bottom: 48px;
+  }
+
+  .wrapper-right img {
+    display: none;
+  }
+
+  #about {
+    margin-top: 0;
+  }
+
+  #about .about-top,
+  #about .about-cross {
+    display: none;
+  }
+
+  #about .title h3 {
+    width: auto;
+  }
+
+  #about .button {
+    display: inline-block;
+    margin: 20px 0;
+  }
+
+  #about .card .des h2 {
+    font-size: 21px;
+  }
+
+  #about .card img {
+    height: auto;
+  }
+
+  #service {
+    background-color: #fdf9f8;
+    margin-top: 0;
+    padding: 120px 0;
+    position: relative;
+  }
+
+  #service .serviceShape,
+  #service .serviceShape2,
+  #service .serviceShape3,
+  #service .serviceShape4,
+  #service .serviceShape5 {
+    display: none;
+  }
+
+  #service .text-area {
+    padding: 20px;
+  }
+
+  #service .text-area h1 {
+    width: auto;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  #service .text-area p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #companies h1 {
+    width: auto;
+    font-size: 30px;
+  }
+
+  #companies .img-box {
+    margin: 10px 0;
+  }
+
+  #customer h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #customer {
+    padding: 65px 0;
+  }
+
+  #customer .customerShape1,
+  #customer .customerShape2,
+  #customer .customerShape3 {
+    display: none;
+  }
+
+  #customer .image-row img {
+    width: 23%;
+    margin-right: 0px;
+  }
+
+  #customer .image-row {
+    margin: 40px 0;
+    text-align: center;
+  }
+  #customer p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #customer .customer-navigation span {
+    color: #29313d;
+    font-family: Open Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 180%;
+    text-transform: capitalize;
+  }
+
+  #customer .next-btn {
+    display: none;
+  }
+  #customer .prev-btn {
+    display: none;
+  }
+
+  #customer .customer-img {
+    margin-top: 20px;
+  }
+
+  #customer .customer-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+  }
+
+  #contact h2 {
+    font-size: 40px;
+  }
+
+  #contact .contactShape {
+    display: none;
+  }
+
+  #contact .button {
+    display: inline-block;
+    margin-top: 19px;
+  }
+
+  footer {
+    padding-top: 40px;
+    padding-bottom: 57px;
+  }
+
+  footer p {
+    font-size: 15px;
+    width: auto;
+  }
+
+  .privacy {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .copyright a {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+  .design {
+    display: none;
+  }
+
+  .curv-ring {
+    display: none;
+  }
+
+  .button {
+    width: auto;
+    padding: 10px 16px;
+    border-radius: 18px;
+    font-size: 18px;
+    border: 1px solid #ff5538;
+  }
+
+  .title h3 {
+    width: auto;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  .title h4 {
+    font-size: 30px;
+  }
+
+  .navbar-nav {
+    background-color: #ff5538;
+    text-align: center;
+  }
+
+  .nav-item {
+    margin-left: 0;
+  }
+
+  .nav-item .nav-link {
+    color: white;
+  }
+
+  nav .button {
+    display: none;
+  }
+
+  #banner {
+    padding-top: 208px;
+    padding-bottom: 79px;
+  }
+
+  #banner h1 {
+    font-size: 42px;
+    width: auto;
+  }
+
+  #banner p {
+    font-size: 20px;
+    width: auto;
+  }
+
+  #suggestion {
+    transform: translateY(0%);
+  }
+
+  #suggestion .card {
+    text-align: center;
+    width: auto;
+    height: 327px;
+    border: none;
+    border-radius: 0;
+    padding: 40px 30px;
+    box-shadow: 0px 44px 40px 0px rgba(0, 0, 0, 0.02);
+  }
+
+  #suggestion .card h2 {
+    font-size: 21px;
+  }
+
+  #suggestion .card p {
+    font-family: "Nunito", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 200%;
+    color: #29313d;
+  }
+
+  #suggestion .card img {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+  }
+
+  #experience {
+    padding: 30px 0;
+  }
+
+  .experience-wrapper {
+    display: block;
+    position: static;
+  }
+
+  .wrapper-left {
+    width: auto;
+    height: auto;
+  }
+
+  .wrapper-right {
+    width: 100%;
+    height: 333px;
+    position: static;
+  }
+
+  .wrapper-right .text-area {
+    margin: 0;
+    padding: 20px;
+  }
+
+  .wrapper-right h2 {
+    width: auto;
+    font-size: 20px;
+    margin-top: 0px;
+  }
+
+  .wrapper-right p {
+    width: auto;
+    font-size: 15px;
+    margin-bottom: 48px;
+  }
+
+  .wrapper-right img {
+    display: none;
+  }
+
+  #about {
+    margin-top: 0;
+  }
+
+  #about .about-top,
+  #about .about-cross {
+    display: none;
+  }
+
+  #about .title h3 {
+    width: auto;
+  }
+
+  #about .button {
+    display: inline-block;
+    margin: 20px 0;
+  }
+
+  #about .card .des h2 {
+    font-size: 21px;
+  }
+
+  #about .card img {
+    height: auto;
+  }
+
+  #service {
+    background-color: #fdf9f8;
+    margin-top: 0;
+    padding: 120px 0;
+    position: relative;
+  }
+
+  #service .serviceShape,
+  #service .serviceShape2,
+  #service .serviceShape3,
+  #service .serviceShape4,
+  #service .serviceShape5 {
+    display: none;
+  }
+
+  #service .text-area {
+    padding: 20px;
+  }
+
+  #service .text-area h1 {
+    width: auto;
+    font-size: 30px;
+    margin-bottom: 20px;
+  }
+
+  #service .text-area p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #companies h1 {
+    width: auto;
+    font-size: 30px;
+  }
+
+  #companies .img-box {
+    margin: 10px 0;
+  }
+
+  #customer h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #customer {
+    padding: 65px 0;
+  }
+
+  #customer .customerShape1,
+  #customer .customerShape2,
+  #customer .customerShape3 {
+    display: none;
+  }
+
+  #customer .image-row img {
+    width: 23%;
+    margin-right: 0px;
+  }
+
+  #customer .image-row {
+    margin: 40px 0;
+    text-align: center;
+  }
+  #customer p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #customer .customer-navigation span {
+    color: #29313d;
+    font-family: Open Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 180%;
+    text-transform: capitalize;
+  }
+
+  #customer .next-btn {
+    position: absolute;
+    top: 1842px;
+    left: 452px;
+  }
+  #customer .prev-btn {
+    position: absolute;
+    top: 1842px;
+    left: 356px;
+  }
+
+  #customer .customer-img {
+    margin-top: 20px;
+  }
+
+  #customer .customer-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+  }
+
+  #contact h2 {
+    font-size: 40px;
+  }
+
+  #contact .contactShape {
+    display: none;
+  }
+
+  #contact .button {
+    display: inline-block;
+    margin-top: 19px;
+  }
+
+  footer {
+    padding-top: 40px;
+    padding-bottom: 57px;
+  }
+
+  footer p {
+    font-size: 15px;
+    width: auto;
+  }
+
+  .privacy {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .copyright a {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 992px) and (max-width: 1200px) {
+  .curv-ring {
+    display: none;
+  }
+
+  .button {
+    width: auto;
+    padding: 10px 16px;
+    border-radius: 18px;
+    font-size: 18px;
+    border: 1px solid #ff5538;
+  }
+
+  .title h3 {
+    width: auto;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  .title h4 {
+    font-size: 30px;
+  }
+
+  #banner {
+    padding-top: 208px;
+    padding-bottom: 79px;
+  }
+
+  .bannerTop {
+    width: 11%;
+  }
+
+  .bannerBottom {
+    display: none;
+  }
+
+  .shap2 {
+    width: 25%;
+  }
+
+  .ring {
+    width: 69px;
+    height: 69px;
+    top: 94px;
+    left: 528px;
+  }
+
+  .ringInner {
+    top: 45px;
+    width: 14px;
+    height: 14px;
+  }
+
+  .shap1 {
+    display: none;
+  }
+
+  .bottomCross {
+    right: 400px;
+  }
+
+  .ring2 {
+    display: none;
+  }
+  .dotbig {
+    display: none;
+  }
+
+  .dotsmall {
+    display: none;
+  }
+  #banner h1 {
+    font-size: 42px;
+    width: auto;
+  }
+
+  #banner p {
+    font-size: 20px;
+    width: auto;
+  }
+
+  #suggestion {
+    transform: translateY(0%);
+  }
+
+  #suggestion .card {
+    text-align: center;
+    width: auto;
+    height: 327px;
+    border: none;
+    border-radius: 0;
+    padding: 40px 30px;
+    box-shadow: 0px 44px 40px 0px rgba(0, 0, 0, 0.02);
+  }
+
+  #suggestion .card h2 {
+    font-size: 21px;
+  }
+
+  #suggestion .card p {
+    font-family: "Nunito", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 200%;
+    color: #29313d;
+  }
+
+  #suggestion .card img {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+  }
+
+  #experience {
+    padding: 30px 0;
+  }
+
+  .experience-wrapper {
+    display: block;
+    position: static;
+  }
+
+  .wrapper-left {
+    width: auto;
+    height: auto;
+  }
+
+  .wrapper-right {
+    width: 100%;
+    height: 333px;
+    position: static;
+  }
+
+  .wrapper-right .text-area {
+    margin: 0;
+    padding: 20px;
+  }
+
+  .wrapper-right h2 {
+    width: auto;
+    font-size: 40px;
+    margin-top: 0px;
+  }
+
+  .wrapper-right p {
+    width: auto;
+    font-size: 20px;
+    margin-bottom: 48px;
+  }
+
+  .wrapper-right img {
+    display: none;
+  }
+
+  #about {
+    margin-top: 0;
+  }
+
+  #about .about-top,
+  #about .about-cross {
+    display: none;
+  }
+
+  #about .title h3 {
+    width: auto;
+  }
+
+  #about .button {
+    width: 128px;
+    display: block;
+    margin: 20px 0;
+  }
+
+  #about .card .des h2 {
+    font-size: 21px;
+  }
+
+  #about .card img {
+    height: 330px;
+  }
+
+  #service {
+    background-color: #fdf9f8;
+    margin-top: 0;
+    padding: 120px 0;
+    position: relative;
+  }
+
+  #service .serviceShape,
+  #service .serviceShape2,
+  #service .serviceShape3,
+  #service .serviceShape4,
+  #service .serviceShape5 {
+    display: initial;
+  }
+
+  #service .serviceShape2 {
+    display: none;
+  }
+
+  #service .text-area {
+    padding: 20px;
+  }
+
+  #service .text-area h1 {
+    width: auto;
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+
+  #service .text-area p {
+    width: auto;
+    font-size: 20px;
+  }
+
+  #companies h1 {
+    width: auto;
+    font-size: 30px;
+  }
+
+  #companies .img-box {
+    margin: 10px 0;
+  }
+
+  #customer h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #customer {
+    padding: 65px 0;
+  }
+
+  #customer .customerShape1,
+  #customer .customerShape2,
+  #customer .customerShape3 {
+    display: none;
+  }
+
+  #customer .image-row img {
+    width: 23%;
+    margin-right: 0px;
+  }
+
+  #customer .image-row {
+    margin: 40px 0;
+    text-align: center;
+  }
+  #customer p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #customer .customer-navigation span {
+    color: #29313d;
+    font-family: Open Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 180%;
+    text-transform: capitalize;
+  }
+
+  #customer .next-btn {
+    position: absolute;
+    top: 391px;
+    left: 261px;
+  }
+  #customer .prev-btn {
+    position: absolute;
+    top: 391px;
+    left: 180px;
+  }
+
+  #customer .customer-img {
+    margin-top: 20px;
+  }
+
+  #customer .customer-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+  }
+
+  #contact h2 {
+    font-size: 40px;
+  }
+
+  #contact .contactShape {
+    display: none;
+  }
+
+  #contact .button {
+    display: block;
+    margin-top: 19px;
+    width: 128px;
+  }
+
+  footer {
+    padding-top: 40px;
+    padding-bottom: 57px;
+  }
+
+  footer p {
+    font-size: 15px;
+    width: auto;
+  }
+
+  .privacy {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .copyright a {
+    font-size: 16px;
+  }
+}
+
+@media (min-width: 1200px) and (max-width: 1400px) {
+  .curv-ring {
+    display: none;
+  }
+
+  .button {
+    width: auto;
+    padding: 10px 16px;
+    border-radius: 18px;
+    font-size: 18px;
+    border: 1px solid #ff5538;
+  }
+
+  .title h3 {
+    width: auto;
+    font-size: 40px;
+    margin-top: 10px;
+    margin-bottom: 0px;
+  }
+
+  .title h4 {
+    font-size: 30px;
+  }
+
+  #banner {
+    padding-top: 208px;
+    padding-bottom: 79px;
+  }
+
+  .bannerTop {
+    width: 11%;
+  }
+
+  .bannerBottom {
+    display: none;
+  }
+
+  .shap2 {
+    width: 25%;
+  }
+
+  .ring {
+    width: 69px;
+    height: 69px;
+    top: 94px;
+    left: 644px;
+  }
+
+  .ringInner {
+    top: 45px;
+    width: 14px;
+    height: 14px;
+  }
+
+  .shap1 {
+    display: none;
+  }
+
+  .bottomCross {
+    right: 400px;
+  }
+
+  .ring2 {
+    display: none;
+  }
+  .dotbig {
+    display: none;
+  }
+
+  .dotsmall {
+    display: none;
+  }
+  #banner h1 {
+    font-size: 42px;
+    width: auto;
+  }
+
+  #banner p {
+    font-size: 20px;
+    width: auto;
+  }
+
+  #suggestion {
+    transform: translateY(0%);
+  }
+
+  #suggestion .card {
+    text-align: center;
+    width: auto;
+    height: 327px;
+    border: none;
+    border-radius: 0;
+    padding: 40px 30px;
+    box-shadow: 0px 44px 40px 0px rgba(0, 0, 0, 0.02);
+  }
+
+  #suggestion .card h2 {
+    font-size: 21px;
+  }
+
+  #suggestion .card p {
+    font-family: "Nunito", sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 200%;
+    color: #29313d;
+  }
+
+  #suggestion .card img {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+  }
+
+  #experience {
+    padding: 30px 0;
+  }
+
+  .experience-wrapper {
+    display: block;
+    position: static;
+  }
+
+  .wrapper-left {
+    width: auto;
+    height: auto;
+  }
+
+  .wrapper-right {
+    width: 100%;
+    height: 333px;
+    position: static;
+  }
+
+  .wrapper-right .text-area {
+    margin: 0;
+    padding: 20px;
+  }
+
+  .wrapper-right h2 {
+    width: auto;
+    font-size: 40px;
+    margin-top: 0px;
+  }
+
+  .wrapper-right p {
+    width: auto;
+    font-size: 20px;
+    margin-bottom: 48px;
+  }
+
+  .wrapper-right img {
+    display: none;
+  }
+
+  #about {
+    margin-top: 0;
+  }
+
+  #about .about-top,
+  #about .about-cross {
+    display: none;
+  }
+
+  #about .title h3 {
+    width: auto;
+  }
+
+  #about .button {
+    width: 128px;
+    display: block;
+    margin: 20px 0;
+  }
+
+  #about .card .des h2 {
+    font-size: 21px;
+  }
+
+  #about .card img {
+    height: 330px;
+  }
+
+  #service {
+    background-color: #fdf9f8;
+    margin-top: 0;
+    padding: 120px 0;
+    position: relative;
+  }
+
+  #service .serviceShape,
+  #service .serviceShape2,
+  #service .serviceShape3,
+  #service .serviceShape4,
+  #service .serviceShape5 {
+    display: initial;
+  }
+
+  #service .serviceShape2 {
+    display: none;
+  }
+
+  #service .text-area {
+    padding: 20px;
+  }
+
+  #service .text-area h1 {
+    width: auto;
+    font-size: 35px;
+    margin-bottom: 20px;
+  }
+
+  #service .text-area p {
+    width: auto;
+    font-size: 20px;
+  }
+
+  #companies h1 {
+    width: auto;
+    font-size: 30px;
+  }
+
+  #companies .img-box {
+    margin: 10px 0;
+  }
+
+  #customer h1 {
+    text-align: center;
+    font-size: 30px;
+  }
+
+  #customer {
+    padding: 65px 0;
+  }
+
+  #customer .customerShape1,
+  #customer .customerShape2,
+  #customer .customerShape3 {
+    display: none;
+  }
+
+  #customer .image-row img {
+    width: 23%;
+    margin-right: 0px;
+  }
+
+  #customer .image-row {
+    margin: 40px 0;
+    text-align: center;
+  }
+  #customer p {
+    width: auto;
+    font-size: 15px;
+  }
+
+  #customer .customer-navigation span {
+    color: #29313d;
+    font-family: Open Sans;
+    font-size: 29px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 180%;
+    text-transform: capitalize;
+  }
+
+  #customer .next-btn {
+    position: absolute;
+    top: 408px;
+    left: 261px;
+  }
+  #customer .prev-btn {
+    position: absolute;
+    top: 408px;
+    left: 180px;
+  }
+
+  #customer .customer-img {
+    margin-top: 20px;
+  }
+
+  #customer .customer-img img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+  }
+
+  #contact h2 {
+    font-size: 40px;
+  }
+
+  #contact .contactShape {
+    display: initial;
+    width: 13%;
+  }
+
+  #contact .button {
+    display: block;
+    margin-top: 19px;
+    width: 128px;
+  }
+
+  footer {
+    padding-top: 40px;
+    padding-bottom: 57px;
+  }
+
+  footer p {
+    font-size: 15px;
+    width: auto;
+  }
+
+  .privacy {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .copyright a {
+    font-size: 16px;
+  }
+}
